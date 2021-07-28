@@ -1,0 +1,3 @@
+Se debe realizar la instalacion y posteriormente copiar y reemplazar el archivo "LicensesManagement.exe.Config" en la siguiente ruta "C:\Program Files (x86)\Lineadatascan\Licenses Management"
+admin
+adminlds123456
